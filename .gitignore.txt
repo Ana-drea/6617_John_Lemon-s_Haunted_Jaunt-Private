@@ -1,0 +1,8 @@
+# Ignore Build directory
+Build/
+
+# Ignore Library directory
+Library/
+
+# Ignore Logs directory
+Logs/
